@@ -38,7 +38,7 @@ You can query the resulting GeoJSON nodes like the following
 ```graphql
 {
   allKmlPoint {
-  	edges {
+    edges {
       node {
         properties {
           name
