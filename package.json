@@ -1,14 +1,15 @@
 {
   "name": "gatsby-transformer-kml",
-  "version": "1.0.0",
-  "description": "Gatsby plugin to transform KML format files into KML nodes",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "version": "0.0.1",
+  "description": "Gatsby transformer plugin for KML format files",
+  "keywords": [
+    "gatsby",
+    "kml",
+    "geojson",
+    "gatsby-plugin"
+  ],
+  "author": "charnz",
+  "license": "MIT",
   "dependencies": {
     "togeojson": "^0.16.0",
     "xmldom": "^0.1.27"
