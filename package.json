@@ -10,6 +10,7 @@
   ],
   "author": "charnz",
   "license": "MIT",
+  "repository": "https://github.com/charnz/gatsby-transformer-kml",
   "dependencies": {
     "togeojson": "^0.16.0",
     "xmldom": "^0.1.27"
